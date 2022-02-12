@@ -1,0 +1,32 @@
+body {
+	background-color: #118847;
+	color: white;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+}
+
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
+.bookmarklet {
+	background-color: white;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 5px;
+	text-decoration: none;
+	color: black;
+}
+
+.link {
+	color: white;
+}
+
+.link:hover {
+	color: #96cbff
+}
