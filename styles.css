@@ -8,10 +8,15 @@ h1 {
 	font-size: 40px;
 }
 
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+}
 
-p {
+p, li {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;
+	line-height: 1.7;
 }
 
 .bookmarklet {
@@ -29,4 +34,17 @@ p {
 
 .link:hover {
 	color: #96cbff
+}
+
+button {
+	background-color: white;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	font-size: 1em;
+	padding: 5px;
+}
+
+button:hover {
+	cursor: pointer;
 }
