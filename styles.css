@@ -19,6 +19,12 @@ p, li {
 	line-height: 1.7;
 }
 
+img {
+	vertical-align: middle;
+	height: 30px;
+	padding-right: 10px;
+}
+
 .bookmarklet {
 	background-color: white;
 	display: inline-block;
