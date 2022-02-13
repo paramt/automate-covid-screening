@@ -1,6 +1,7 @@
 body {
 	background-color: #118847;
 	color: white;
+	padding: 10px 20px;
 }
 
 h1 {
@@ -53,6 +54,12 @@ button {
 
 button:hover {
 	cursor: pointer;
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    padding: 20px 50px;
+  }
 }
 
 /* Tooltip code from https://www.w3schools.com/css/css_tooltip.asp */
