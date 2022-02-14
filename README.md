@@ -1,5 +1,5 @@
 # Automate COVID Screening
-This bookmarklet will automate your daily COVID screening!
+Automate your daily COVID screening with this simple bookmarklet!
 
 ![Demo](docs/demo.gif)
 
