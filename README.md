@@ -1,4 +1,6 @@
 # Automate COVID Screening
-Automate your daily COVID screening!
+This bookmarklet will automate your daily COVID screening!
+
+![Demo](demo.gif)
 
 **[Setup Instructions](https://www.param.me/automate-covid-screening/)**
